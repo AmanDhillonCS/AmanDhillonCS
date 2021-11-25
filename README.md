@@ -3,7 +3,8 @@
 
 I'm Aman from Canada, and I am developer. I enjoy learning new languages and frameworks like React, as well as working with any kind of project involving Java. 
 I also enjoy curating content for projects.
-You can checkout my pinned projects on GitHub profile.
+
+You can checkout my pinned projects below on GitHub profile.
 
 Skills: Java / Python / JS / HTML / CSS 
 
