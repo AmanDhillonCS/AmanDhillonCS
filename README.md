@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Aman
+#### Design and Development
 
-<!--
-**AmanDhillonCS/AmanDhillonCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aman from Canada, and I am developer. I enjoy learning new languages and frameworks like React, as well as working with any kind of project involving Java. 
+I also enjoy curating content for projects.
+You can checkout my pinned projects on GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Java / Python / JS / HTML / CSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning iOS development  
+- 📫 How to reach me: amandhillon1997@outlook.com 
+- 😄 Pronouns: He/Him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmanDhillonCS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amandhilloncs/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanDhillonCS&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/AmanDhillonCS)  
+
+
